@@ -6,8 +6,8 @@
 - Сам телефон,
 - модули(большой и маленький),
 - объединитель для маленьких модулей.
-## Пример работы программы
-![image](https://github.com/dhoker23/ModulePhone/assets/44202889/4e609748-948f-48bb-b6f8-fbe000f3cac6)
+## Скриншот
+![phonePicture](https://github.com/dhoker23/ModulePhone/assets/44202889/ce11ee2f-1b07-4036-ba46-e5a8bcb1a176)
 ## Контакты
 - VK : [Михайлов Кирилл](https://vk.com/kirill.mixailov)
 - Telegram: @dhoker23
